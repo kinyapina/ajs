@@ -1,0 +1,19 @@
+{
+  "name": "@kinyapina/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "https://github.com/kinyapina/ajs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinyapina/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinyapina/ajs/issues"
+  },
+  "homepage": "https://github.com/kinyapina/ajs#readme"
+}
